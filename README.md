@@ -16,7 +16,7 @@ File Structure:
 
     age_gender_prediction.py: Python script containing the model implementation, training, and Streamlit app.
     main.py: Python script for testing the model in the terminal.
-    UTKFace/: Folder containing the UTKFace dataset 
+    UTKFace/: Folder containing the UTKFace dataset (not included in the repository due to size).
 
 Usage:
 
